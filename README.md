@@ -1,6 +1,6 @@
 # Monopoly-game-teach
 
-###Build a simple Monopoly game
+### Build a simple Monopoly game
 
 Building a Monopoly game with HTML, CSS, and JavaScript is a great project for improving your skills in web development. Here is a basic outline for building a Monopoly game:
 
